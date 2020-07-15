@@ -1,1 +1,1 @@
-# Chemistry exercises for the course
+# Chemistry exercises for the module.
