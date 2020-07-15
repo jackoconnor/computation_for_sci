@@ -1,1 +1,1 @@
-# Data science exercises for the course.
+# Data science exercises for the module.
