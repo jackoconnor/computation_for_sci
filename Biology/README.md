@@ -1,1 +1,1 @@
-# Biology exercises for the course
+# Biology exercises for the module.
